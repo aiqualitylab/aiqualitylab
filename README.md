@@ -47,6 +47,6 @@ Welcome to my personal GitHub playground — where I explore AI for QA during la
 ---
 
   
-*"Break things always."* 🚀
+*Break things always.* 🚀
 
 ---
