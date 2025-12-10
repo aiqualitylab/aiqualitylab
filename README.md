@@ -2,7 +2,7 @@
 
 ☕ **Nights**, 🛋️ **Weekends**, 🤖 **AI Experiments** — Welcome to My Playground!
 
-*Where caffeine meets code and AI meets QA*
+*Where AI meets QA*
 
 ## 🌙 A Little About Me
 
