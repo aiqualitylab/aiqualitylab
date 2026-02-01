@@ -2,22 +2,12 @@
 
 ☕ **Nights**, 🛋️ **Weekends**, 🤖 **AI Experiments** — Welcome to My Playground!
 
-*Where AI meets QA*
-
-Welcome to my personal GitHub playground — where I explore AI for QA 🛋️.
-
----
-
-## 🤝 Let's Connect
+Where I explore AI for QA 🛋️
 
 💬 Feel free to **star** ⭐, **fork** 🍴, or **open issues** 🕵️
 
----
-
 📝 [aiqualityengineer.com](https://aiqualityengineer.com) 
 
----
-
-*AI-powered quality engineering.*    *Break things always.* 🚀
+AI-powered quality engineering🚀
 
 ---
