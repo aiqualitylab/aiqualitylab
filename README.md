@@ -4,8 +4,6 @@
 
 *Where AI meets QA*
 
-## 🌙 A Little About Me
-
 Welcome to my personal GitHub playground — where I explore AI for QA 🛋️.
 
 ---
