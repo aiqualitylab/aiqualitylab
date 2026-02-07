@@ -6,8 +6,4 @@ Where I explore AI for QA 🛋️
 
 💬 Feel free to **star** ⭐, **fork** 🍴, or **open issues** 🕵️
 
-📝 [aiqualityengineer.com](https://aiqualityengineer.com) 
-
-AI-powered quality engineering🚀
-
----
+📝 [aiqualityengineer.com](https://aiqualityengineer.com)  ⭐ AI-powered quality engineering🚀
