@@ -1,9 +1,22 @@
-# 👋 Hi, I'm aiqualitylab
+# Hi, I'm Sreekanth Harigovindan 👋
 
-☕ **Nights**, 🛋️ **Weekends**, 🤖 **AI Experiments** — Welcome to My Playground!
+**Quality Assurance Professional**
 
-Where I explore AI for QA 🛋️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreekanthharigovindan/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://aiqualityengineer.com)
 
-💬 Feel free to **star** ⭐, **fork** 🍴, or **open issues** 🕵️
+---
 
-📝 [aiqualityengineer.com](https://aiqualityengineer.com)  ⭐ AI-powered quality engineering🚀
+## 🔧 What I'm Building
+
+I build open-source AI-powered testing frameworks and write about the intersection of AI and quality engineering at [aiqualityengineer.com](https://aiqualityengineer.com).
+
+## 🎓 Certifications
+ISTQB® CT-GenAI, CT-AI, CT-TAE, CTFL | CSPO® | CSM® | Lean Six Sigma 
+
+## 📍 Currently
+- 🇪🇪 Based in Tallinn, Estonia
+- 🎤 Speaking on AI in Testing
+- ✍️ Writing at [aiqualityengineer.com](https://aiqualityengineer.com)
+
+---
