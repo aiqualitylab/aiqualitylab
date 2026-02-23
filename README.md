@@ -18,5 +18,3 @@ ISTQB® CT-GenAI, CT-AI, CT-TAE, CTFL | CSPO® | CSM® | Lean Six Sigma
 - 🇪🇪 Based in Tallinn, Estonia
 - 🎤 Speaking on AI in Testing
 - ✍️ Writing at [aiqualityengineer.com](https://aiqualityengineer.com)
-
----
