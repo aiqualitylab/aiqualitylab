@@ -1,20 +1,35 @@
+<div align="center">
+
 # Hi, I'm Sreekanth Harigovindan 👋
 
-**Quality Assurance Professional**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Quality+Assurance+Professional;AI+%2B+Testing+%3D+The+Future;Open+Source+Builder+%40+AI+Quality+Lab;ISTQB+CT-GenAI+%7C+CT-AI+%7C+CT-TAE;Speaking+on+AI+in+Testing+🎤)](https://aiqualityengineer.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sreekanthharigovindan/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://aiqualityengineer.com)
+![Profile Views](https://komarev.com/ghpvc/?username=aiqualitylab&color=00B4D8&style=flat&label=Profile+Views)
 
----
+</div>
 
 ## 🔧 What I'm Building
 
 I build open-source AI-powered testing frameworks and write about the intersection of AI and quality engineering at [aiqualityengineer.com](https://aiqualityengineer.com).
 
 ## 🎓 Certifications
-ISTQB® CT-GenAI, CT-AI, CT-TAE, CTFL | CSPO® | CSM® | Lean Six Sigma 
+
+<div align="center">
+
+![CT-GenAI](https://img.shields.io/badge/ISTQB-CT--GenAI-8B5CF6?style=flat-square)
+![CT-AI](https://img.shields.io/badge/ISTQB-CT--AI-8B5CF6?style=flat-square)
+![CT-TAE](https://img.shields.io/badge/ISTQB-CT--TAE-8B5CF6?style=flat-square)
+![CTFL](https://img.shields.io/badge/ISTQB-CTFL-8B5CF6?style=flat-square)
+![CSPO](https://img.shields.io/badge/Scrum-CSPO-0052CC?style=flat-square)
+![CSM](https://img.shields.io/badge/Scrum-CSM-0052CC?style=flat-square)
+![LSS](https://img.shields.io/badge/Lean-Six_Sigma-059669?style=flat-square)
+
+</div>
 
 ## 📍 Currently
+
 - 🇪🇪 Based in Tallinn, Estonia
 - 🎤 Speaking on AI in Testing
 - ✍️ Writing at [aiqualityengineer.com](https://aiqualityengineer.com)
