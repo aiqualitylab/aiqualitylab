@@ -14,6 +14,8 @@
 
 I build open-source AI-powered testing frameworks and write about the intersection of AI and quality engineering at [aiqualityengineer.com](https://aiqualityengineer.com).
 
+And I am the editor of the Medium publication [AI Quality Engineer](https://aiqualityengineer.cc/).
+
 ## 🎓 Certifications
 
 <div align="center">

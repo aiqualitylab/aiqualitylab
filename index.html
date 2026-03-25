@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f0f1a">
+  <meta name="description" content="AI Quality Lab documentation shell.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI Quality Lab">
+  <meta property="og:description" content="AI-powered quality engineering notes, experiments, and frameworks.">
+  <meta property="og:url" content="https://aiqualitylab.org/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="AI Quality Lab">
+  <meta name="twitter:description" content="AI-powered quality engineering notes, experiments, and frameworks.">
+  <link rel="canonical" href="https://aiqualitylab.org/">
+  <title>AI Quality Lab</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+
+  <!-- Docsify theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+  <!-- Prism syntax highlighting -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.css">
+
+  <style>
+    :root {
+      --theme-color: #6366f1;
+      --sidebar-width: 280px;
+      --sidebar-background: #0f0f1a;
+      --sidebar-nav-link-color: #a5b4fc;
+      --sidebar-nav-link-color--active: #fff;
+      --sidebar-nav-link-background-color--active: rgba(99,102,241,0.25);
+      --sidebar-nav-link-font-weight--active: 600;
+      --base-font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      --base-line-height: 1.75;
+      --base-font-size: 16px;
+      --heading-color: #1e1b4b;
+      --code-theme-background: #1e1e2e;
+      --code-theme-text: #cdd6f4;
+      --link-color: #6366f1;
+      --link-color--hover: #4f46e5;
+    }
+
+    /* Minimal sidebar: keep only app name and search */
+    .sidebar-toggle {
+      display: none !important;
+    }
+
+    .sidebar-nav,
+    .sidebar-nav ul,
+    .sidebar-nav li {
+      display: none !important;
+    }
+
+    .sidebar > h1 {
+      font-size: 1.05rem !important;
+      font-weight: 700 !important;
+      color: #fff !important;
+      padding: 1.2rem 1rem 0.8rem !important;
+      margin: 0 !important;
+    }
+
+    .sidebar > h1 a {
+      color: #fff !important;
+      text-decoration: none !important;
+    }
+
+    .search {
+      padding: 0.5rem 1rem 1rem !important;
+      margin: 0 !important;
+    }
+
+    /* Markdown content tweaks */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3 {
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+
+    .markdown-section h1 { border-bottom: 3px solid #6366f1; padding-bottom: 0.5rem; }
+    .markdown-section h2 { border-bottom: 1px solid #e0e7ff; padding-bottom: 0.3rem; }
+
+    .markdown-section blockquote {
+      border-left: 4px solid #6366f1;
+      background: #f0f0ff;
+      padding: 1rem 1.5rem;
+      border-radius: 0 8px 8px 0;
+      color: #3730a3;
+    }
+
+    .markdown-section code {
+      background: #1e1e2e;
+      color: #cba6f7;
+      padding: 0.15em 0.4em;
+      border-radius: 4px;
+      font-size: 0.875em;
+    }
+
+    .markdown-section table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    .markdown-section table thead tr {
+      background: #6366f1;
+      color: white;
+    }
+
+    .markdown-section table th,
+    .markdown-section table td {
+      padding: 0.75rem 1rem;
+      border: 1px solid #e0e7ff;
+    }
+
+    .markdown-section table tbody tr:nth-child(even) {
+      background: #f5f3ff;
+    }
+
+    /* Progress bar color */
+    #nprogress .bar { background: #6366f1 !important; }
+    #nprogress .peg { box-shadow: 0 0 10px #6366f1, 0 0 5px #6366f1 !important; }
+
+    /* Search box */
+    .search input { border-radius: 8px; }
+
+    .search input:focus-visible,
+    .sidebar > h1 a:focus-visible,
+    .markdown-section a:focus-visible {
+      outline: 2px solid #a5b4fc;
+      outline-offset: 2px;
+      border-radius: 6px;
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      name: '← AI Quality Lab Home',
+      nameLink: '/',
+      repo: 'https://github.com/aiqualitylab/aiqualitylab',
+      loadSidebar: false,
+      coverpage: false,
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 2,
+      homepage: 'README.md',
+
+      // Search plugin config
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: 'Search pages...',
+        noData: 'No results found.',
+        depth: 3,
+      },
+
+      // Copy code button
+      copyCode: {
+        buttonText: 'Copy',
+        errorText: 'Error',
+        successText: 'Copied!'
+      }
+    };
+  </script>
+
+  <!-- Docsify core -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+
+  <!-- Plugins -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+
+  <!-- Syntax highlighting -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+
+  <!-- Mermaid diagrams -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <script>mermaid.initialize({ startOnLoad: false, theme: 'default' });</script>
+</body>
+</html>
