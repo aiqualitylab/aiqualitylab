@@ -15,11 +15,21 @@
 
 ## 🔧 What I'm Building
 
-I design practical, open-source use cases at the intersection of **AI + Quality Engineering**.
+I build practical, open-source QA systems at the intersection of **AI + Quality Engineering**.
 
-- **Open-source QA frameworks:** Building AI-powered automation accelerators for real testing workflows.
-- **Technical writing:** Sharing experiments, implementation patterns, and learnings at [aiqualityengineer.com](https://aiqualityengineer.com).
-- **Editorial leadership:** Editor of the Medium publication [AI Quality Engineer](https://aiqualityengineer.cc/).
+- AI-native QA tooling that turns natural language requirements into executable automated tests.
+- Reusable frameworks and workflows with reliable automation.
+
+### What this is for
+- Reduce the gap between requirements and test implementation.
+
+### Initiative in progress
+- **Flagship project:** [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests)
+- This is a **multi-framework** initiative focused on converting plain-English QA scenarios into E2E tests across Cypress, Playwright, WebdriverIO, and upcoming frameworks as the platform grows.
+
+### Community and knowledge sharing
+- Sharing experiments, implementation patterns, and learnings at [aiqualityengineer.com](https://aiqualityengineer.com).
+- Editor of the Medium publication [AI Quality Engineer](https://aiqualityengineer.cc/).
 
 ## 🎓 Certifications
 
